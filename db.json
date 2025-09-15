@@ -7,7 +7,7 @@
       "jumlahPinjaman": 10000,
       "tanggalPinjam": "2025-02-10",
       "jatuhTempo": "2025-02-11",
-      "status": "Aktif",
+      "status": "Telat",
       "debtCollector": "GUSTI"
     }
   ]
