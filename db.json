@@ -1,14 +1,3 @@
 {
-  "customers": [
-    {
-      "id": 1678886400002,
-      "nama": "Agus Wijaya",
-      "nik": "3201234567890003",
-      "jumlahPinjaman": 10000000,
-      "tanggalPinjam": "2025-07-15",
-      "jatuhTempo": "2025-08-15",
-      "status": "Lunas",
-      "debtCollector": ""
-    }
-  ]
+  "customers": []
 }
