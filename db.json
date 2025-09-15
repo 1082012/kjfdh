@@ -1,16 +1,6 @@
 {
   "customers": [
     {
-      "id": 1678886400000,
-      "nama": "Budi Santoso",
-      "nik": "3201234567890001",
-      "jumlahPinjaman": 5000000,
-      "tanggalPinjam": "2025-09-10",
-      "jatuhTempo": "2025-10-10",
-      "status": "Aktif",
-      "debtCollector": ""
-    },
-    {
       "id": 1678886400001,
       "nama": "Citra Lestari",
       "nik": "3201234567890002",
