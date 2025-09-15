@@ -1,16 +1,6 @@
 {
   "customers": [
     {
-      "id": 1678886400001,
-      "nama": "Citra Lestari",
-      "nik": "3201234567890002",
-      "jumlahPinjaman": 2500000,
-      "tanggalPinjam": "2025-08-01",
-      "jatuhTempo": "2025-09-01",
-      "status": "Telat",
-      "debtCollector": "Rudi"
-    },
-    {
       "id": 1678886400002,
       "nama": "Agus Wijaya",
       "nik": "3201234567890003",
