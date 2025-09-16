@@ -1,15 +1,3 @@
 {
-  "customers": [
-    {
-      "id": 1757945893942,
-      "nama": "IKRAAM MAULANA",
-      "nik": "3673015655666554",
-      "jumlahPinjaman": 1000000,
-      "tanggalPinjam": "2025-02-10",
-      "jatuhTempo": "2025-02-11",
-      "status": "Aktif",
-      "debtCollector": "GUSTI",
-      "tanggalLunas": null
-    }
-  ]
+  "customers": []
 }
