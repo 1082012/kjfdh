@@ -10,6 +10,17 @@
       "status": "Telat",
       "debtCollector": "Gusti",
       "tanggalLunas": null
+    },
+    {
+      "id": 1757995246632,
+      "nama": "RIZKA",
+      "nik": "3673010000000000",
+      "jumlahPinjaman": 6000,
+      "tanggalPinjam": "2025-09-15",
+      "jatuhTempo": "2025-09-16",
+      "status": "Telat",
+      "debtCollector": "Gusti",
+      "tanggalLunas": null
     }
   ]
 }
